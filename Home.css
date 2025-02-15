@@ -1,0 +1,12 @@
+.button{
+    position: relative;
+    left:550px;
+}
+.button1:hover{
+    border: 2px solid white;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px whitesmoke;
+}
+.button1:active{
+    color: rgb(245, 19, 57);
+}

@@ -1,0 +1,42 @@
+
+.Services h1{
+font-family:  "Playwrite AU VIC", cursive;font-style: italic;
+position:absolute;font-size: 50px;
+top:150px;
+left:40px;
+}
+.Services img{
+    height:400px;
+    width:500px;position: absolute;
+    top:80px;left:650px;
+}
+.brain h2{
+    position: relative;
+    top:400px;
+    font-size: 40px;
+}
+.brain img{
+    position: absolute;
+    top:600px;
+    left:80px;
+    height: 200px;width:200px;border-radius:20px;
+}
+.brain2 img{
+    position: absolute;
+    top:600px;
+    left:450px;
+    height: 200px;width:200px;border-radius:20px;
+}
+.brain3 img{
+    position: absolute;
+    top:600px;
+    left:700px;
+    height: 200px;width:200px;border-radius:20px;
+}
+.brain4 img{
+    position: absolute;
+    top:600px;
+    left:1000px;
+    height: 200px;width:200px;border-radius:20px;
+}
+

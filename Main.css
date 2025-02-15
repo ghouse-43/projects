@@ -1,0 +1,97 @@
+
+.image  img {
+  width:1263px;
+  height:700px;
+}
+.image p{
+    font-size: 50px;
+    font-style: italic;
+    position: absolute;
+    top:150px;left:50px;
+    font-family: "Playwrite FR Moderne", cursive;
+    color:white
+}
+.icons{
+    padding:2px 10px;
+}
+.content{
+    position: absolute;
+    top:350px;left:50px;
+    font-size:20px ;
+    font-style: italic;
+    font-weight: 600;
+color:black;}
+    #b{
+        position: absolute;
+        top:450px;
+        left:50px;
+        border: 2px solid rgb(34, 34, 37);
+        background-color: rgb(232, 247, 22);
+        font-size: 13px;font-weight: 600;
+        padding:20px 10px; border-radius: 20px;
+    }
+    .hour{
+        position: absolute;
+        top:600px; left:400px;
+        height: 200px;
+        width:300px;background-color: aliceblue;
+        box-shadow: 4px 4px 3px black;border-radius: 20px;
+    }
+    .hour img{
+        height:200px;
+        width: 100px;
+    }
+    .hour .para{
+        position:absolute;
+        top:30px;left:110px;
+        font-size: 30px;font-family: "Playwrite FR Moderne", cursive;
+    }
+    .para2{
+        position:absolute;
+        top:120px;left:110px;
+        font-size:15px;font-weight: 400;
+    }
+    .hour2{
+        position: absolute;
+        top:600px; left:750px;
+        height: 200px;
+        width:300px;background-color: aliceblue;
+        box-shadow: 4px 4px 3px black;
+        border-radius: 20px;
+    }
+    .hour2 img{
+        height:200px;
+        width: 200px;
+    }
+    .hour2 .para{
+        position:absolute;
+        top:0px;left:200px;text-align: center;
+        font-size: 30px;font-family: "Playwrite FR Moderne", cursive;
+    }
+    .para3{
+        position:absolute;
+        top:90px;left:220px;
+        font-size:15px;font-weight: 400;
+    }
+    H2{
+        text-align: center;padding-top:30px;
+    }
+    .health{
+        background-color: rgb(24, 219, 245);
+    }
+    .health img{
+        height:500px;
+        width:700px;
+        padding-left: 300px;border-radius: 40px;
+        opacity:0.7;
+    }
+    .health ul{
+        position:absolute;top:950px;left:300px;
+    }
+    .health ul li{
+        font-size: 20px;font-weight: 500;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    footer{
+        background-color: rgb(247, 249, 251);
+    }

@@ -1,0 +1,58 @@
+.box{
+    border:2px solid black;
+    height:900px;
+    width:800px;
+    margin: 0px 250px;
+    padding: 0px 20px;
+}
+.Text{
+    display:inline-flex;
+
+   
+}
+.Text p,.para p{
+    font-size: 15px;font-weight: 600;
+    margin-left:20px;
+}
+.check{
+    font-size: 15px;position: relative;top:15px;
+}
+.para{
+    display: inline-block;
+}
+.circle{
+    font-weight: 500;
+    margin-left: 20px;
+    display: inline-flex;
+}
+.circle i{
+ padding:0px 20px;
+}
+.circle i:hover{
+    border: 2px solid black;
+    border-radius: 20px;
+   }
+   .circle i:active{
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: rgb(255, 136, 0);
+   }
+ textarea{
+    border:2px solid black;
+    position: relative;top:50px;height: 50px;width:400px;
+    left: 0px;
+ }
+ .Text .input{
+    border: 2px solid black;
+    width:50px;
+    margin-left: 10px;
+ }
+
+ .submit{
+border:2px solid black;
+background-color: rgb(69, 69, 236);
+padding:10px 40px;
+position: relative;
+left:300px;
+margin-top: 20px;
+ }
